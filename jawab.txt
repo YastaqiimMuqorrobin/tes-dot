@@ -1,0 +1,12 @@
+#SOAL
+1. membuat sebuah menu atau fungsi yang belum perbah dibuat dengan waktu yang terbatas/singkat.
+   Solusinya, biasanya saya tidur malam untuk mempelajarinya dan meminta waktu tenggang 1-3 hari
+2. Untuk clean code beberapa framework sudah sedikit mengetahui.
+   implementasi clean code pada project saya menggunakan framework laravel yang mana hampir sama dengan MVC (Model View Controller) pada dengan CodeIgniter
+3. Saya menggunakan Github.
+   - Github mempunyai 1 branch utama (master) yang mana dan mempunyai 3 branch (cabang).
+   - pada branch utama (master) mempunyai initial commits, pada branch ke-2 (1.-Algorithmic-Test) mempunyai 3 commits dari master, pada branch ke-4 (2.-Backend-Engineering-Test) mempunyai 1 commits dari master
+4. Saya belum pernah menggunakan Design pattern dan menurut saya Design pattern merupakan tools/software untuk membantu para FrontEnd developer yang mana mengubah design tampilan ke source code.
+   Saya pernah melihat teman saya menggunakan software/tool Design pattern menggunakan software yang bernama "Figma" dan software yang bernama "sketch"
+5. Saya bersedia ditempatkan di malang.
+   Jika remote, saya akan mengajukan/mengusulkan untuk datang ke kantor 2-3 hari dalam sepekan untuk evaluasi dan untuk tugas harian bisa berkomunikasi menggunakan whatsapp dan github sebagai jalur komunikasi dalam hal pemograman.
